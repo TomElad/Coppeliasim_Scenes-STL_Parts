@@ -1,12 +1,14 @@
 # Final_Project_ET
 UI for a robotic arm
 
+EladTom_Positin_Left.py
+
 הפעלת המערכת דרך Pycharm:
 1. הפעלת סביבת העבודה Pycharm
-2. פתיחת קובץ Ver1 או Ver2
-     .בפרויקט זה ישנן שתי גרסאות להפעלת ממשק המשתמש (Ver1 / Ver2)
+2. פתיחת קובץ EladTom_Kick_Left.py או EladTom_Positin_Left.py
+     .בפרויקט זה ישנן שתי גרסאות להפעלת ממשק המשתמש (EladTom_Kick_Left / EladTom_Positin_Left)
     יד אחת שולטת על המיקום והיד השניה שולטת על כיוון החבטה. ההבדל בין הגרסאות הוא באופן השימוש בידיים(איזה יד שולטת על כפתורי הבעיטה ואיזה על החבטה)   
-    home-> user-> PycharmProjects-> EladTom-> Ver1/Ver2
+   
 3.הרצת הקוד
 
 שימוש בממשק המשחק:
