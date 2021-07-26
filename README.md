@@ -7,7 +7,10 @@ EladTom_Positin_Left.py
 1. הפעלת סביבת העבודה Pycharm
 2. פתיחת קובץ EladTom_Kick_Left.py או EladTom_Positin_Left.py
      .בפרויקט זה ישנן שתי גרסאות להפעלת ממשק המשתמש (EladTom_Kick_Left / EladTom_Positin_Left)
-     
+     :כל גרסה קוראת לקובץ שונה. הקבצים הינם סצנות קופליאסים
+     All_Parts_Kick_left.ttt
+     All_Parts_position_left.ttt
+
     יד אחת שולטת על המיקום והיד השניה שולטת על כיוון החבטה. ההבדל בין הגרסאות הוא באופן השימוש בידיים (איזה יד שולטת על כפתורי הבעיטה ואיזה על החבטה)   
    
 3.הרצת הקוד
